@@ -7,6 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shobhit-kushwaha-aa8578221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-kushwaha-aa8578221" height="30" width="40" /></a>
+<a href="https://instagram.com/shobhit_0604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shobhit_0604" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kushwahashobhit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kushwahashobhit1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shobhitkushwaha1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shobhitkushwaha1406" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kushwahashobhit255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushwahashobhit255" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
