@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shobhit Kushwaha</h1>
 <h3 align="center">MERN Stack Developer And Competitive Programmer</h3>
 
+- 🔭 I’m currently working on [Chatify](https://github.com/shokushwaha/chat-app)
+
+- 🌱 I’m currently learning **Redux and Advanced NodeJS**
+
 - 👨‍💻 All of my projects are available at [https://shokushwaha.github.io/kushwaha/](https://shokushwaha.github.io/kushwaha/)
+
+- 💬 Ask me about **ReactJS and related topics**
 
 - 📫 How to reach me **shobhitkushwaha1406@gmail.com**
 
