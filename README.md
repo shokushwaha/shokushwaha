@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chatify](https://github.com/shokushwaha/chat-app)
 
-- 🌱 I’m currently learning **Redux and Advanced NodeJS**
+- 🌱 I’m currently learning **NextJS & React-Native**
 
 - 👨‍💻 All of my projects are available at [https://shokushwaha.github.io/kushwaha/](https://shokushwaha.github.io/kushwaha/)
 
