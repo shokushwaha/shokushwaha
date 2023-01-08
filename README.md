@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS & React-Native**
 
-- 👨‍💻 All of my projects are available at [https://shokushwaha.github.io/kushwaha/](https://shokushwaha.github.io/kushwaha/)
+- 👨‍💻 All of my projects are available at my github itself [https://github.com/shokushwaha](https://github.com/shokushwaha)
 
 - 💬 Ask me about **ReactJS and related topics**
 
