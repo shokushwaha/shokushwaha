@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shobhit Kushwaha</h1>
 <h3 align="center">MERN Stack Developer And Competitive Programmer</h3>
 
-- 🔭 I’m currently working on [Chatify](https://github.com/shokushwaha/chat-app)
+- 🔭 I’m currently working on [Decentralised File Sharing Website]
 
 - 🌱 I’m currently learning **Solidity & Web3.0**
 
