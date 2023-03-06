@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit Kushwaha</h1>
-<h3 align="center">MERN Stack Developer And Competitive Programmer</h3>
+<h3 align="center">MERN Stack || Blockchain || Competitive Programming</h3>
 
 - 🔭 I’m currently working on [Decentralised File Sharing Website]("https://github.com/shokushwaha/file-sharing-decentralized")
 
