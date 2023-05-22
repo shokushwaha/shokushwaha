@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shobhit Kushwaha</h1>
 <h3 align="center">MERN Stack || Blockchain || Competitive Programming</h3>
 
-- 🔭 I’m currently working on [Decentralised File Sharing Website]("https://github.com/shokushwaha/file-sharing-decentralized")
+- 🔭 I’m currently working on NFT Marketplace
 
-- 🌱 I’m currently learning **Solidity & Web3.0**
+- 🌱 I’m currently learning Web3.0
 
 - 👨‍💻 All of my projects are available at my github itself [https://github.com/shokushwaha](https://github.com/shokushwaha)
 
