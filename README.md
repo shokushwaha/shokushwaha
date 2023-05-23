@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on NFT Marketplace
 
-- 🌱 I’m currently learning Web3.0
+- 🌱 I’m currently exploring Web3.0 and Bitcoin
 
 - 👨‍💻 All of my projects are available at my github itself [https://github.com/shokushwaha](https://github.com/shokushwaha)
 
