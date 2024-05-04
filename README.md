@@ -4,11 +4,7 @@
 
 - 🔭 I’m currently working on **Decentralized Finance**
 
-
-
 - 👨‍💻 All of my projects are available at [https://shocodev.vercel.app](https://shocodev.vercel.app)
-
-
 
 - 📫 How to reach me **shobhitkushwaha.official@gmail.com**
 
