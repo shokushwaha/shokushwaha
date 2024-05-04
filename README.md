@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit Kushwaha</h1>
-<h3 align="center">Full Stack || Blockchain || ML</h3> <br/>
+<h3 align="center">Full Stack || Devops ||  Blockchain || ML</h3> <br/>
 
 
 - 🔭 I’m currently working on **Decentralized Finance**
