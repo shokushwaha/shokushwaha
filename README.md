@@ -53,7 +53,7 @@
 # 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/shobhit-kushwaha14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-kushwaha14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.linkedin.com/in/shobhit-kushwaha14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.linkedin.com/in/shobhit-kushwaha14" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shobhitkushwaha1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.linkedin.com/in/shobhit-kushwaha14" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kushwahashobhit255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushwahashobhit255" height="30" width="40" /></a>
 </p>
 
