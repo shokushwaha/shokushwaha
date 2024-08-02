@@ -50,6 +50,13 @@
 
 <br/>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shokushwaha&bg_color=3c383e&color=f0ff1a&line=33d735&point=78e8e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+</br>
+
 # 🔗 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/shobhit-kushwaha14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-kushwaha14" height="30" width="40" /></a>
