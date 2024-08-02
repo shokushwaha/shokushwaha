@@ -50,7 +50,7 @@
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shokushwaha&bg_color=121221&color=44fafd&line=44ca46&point=6be6e4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shokushwaha&bg_color=121221&color=44fafd&line=44ca46&point=6be6e4&area=true&hide_border=true)]
 
 
 </br>
