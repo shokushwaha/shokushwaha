@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shobhit Kushwaha</h1>
 
 
-
+- I'm currently working as Software Engineer Intern at Traceable
+- Ask my anything about Angular & React.js
 - 👨‍💻 All of my projects are available at [shobhitkushwaha.co](https://shobhitkushwaha.co)
-
 - 📫 How to reach me **shobhitkushwaha1406@gmail.com**
 
 
@@ -31,44 +31,19 @@
 <br/>
 
 
-
-
-
-
-
-
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shokushwaha&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shokushwaha&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shokushwaha&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shokushwaha&layout=compact&theme=dark)
 
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shokushwaha&bg_color=121221&color=44fafd&line=44ca46&point=6be6e4&area=true&hide_border=true)]
-
-</br>
-
-# 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/shobhit-kushwaha14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobhit-kushwaha14" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shobhitkushwaha1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.linkedin.com/in/shobhit-kushwaha14" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kushwahashobhit255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushwahashobhit255" height="30" width="40" /></a>
-</p>
 
 
+# 🏆 GitHub Trophies:
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=shokushwaha&theme=onedark)](https://github.com/shokushwaha/github-profile-trophy)
 
 
 ---
