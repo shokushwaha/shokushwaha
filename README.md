@@ -38,6 +38,12 @@
 
 # 📊 GitHub Stats:
 
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shokushwaha&theme=dark" alt="Shobhit Kushwaha's github stats" /></a>
+</p>
+
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shokushwaha&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shokushwaha&layout=compact&theme=dark)
 
