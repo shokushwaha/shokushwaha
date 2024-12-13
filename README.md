@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shobhit Kushwaha</h1>
+<h3 align="center">
+  Hi!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  I'm Shobhit Kushwaha
+</h3>
 
+<br/>
 
 - I'm currently working as Software Engineer Intern at Traceable
 - Ask my anything about Angular & React.js
@@ -51,6 +56,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shokushwaha&theme=onedark)](https://github.com/shokushwaha/github-profile-trophy)
 
 
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 ---
 
 
